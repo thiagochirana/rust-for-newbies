@@ -1,4 +1,4 @@
-# rust-for-newbies
+# Rust for Newbiews (Rust para Iniciantes)
 <hr></hr>
 🇺🇸
 This is a repo that could be help you to understand Rust lang. It's just a test
